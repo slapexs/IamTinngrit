@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Prompt&display=swap');
+
+html,
+body {
+  background: #2d2e48;
+  font-family: 'Lato', 'Prompt';
+  color: white;
+  scroll-behavior: smooth;
+}
+
+.sectionPart {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
